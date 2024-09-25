@@ -1,0 +1,21 @@
+******************************
+Air India Booking Receipt
+******************************
+Name:
+Phone Number:
+Code:Do766
+Number of ticket:2
+Price:Rs2100.0
+Date:12/12/21
+Time:2100
+Depart:Mumbai
+Arrival:Lisbon
+******************************
+Price: Rs4200.0
+Price after discount:Rs4200.0
+Payment:Rs73652.0
+Balance:Rs69,452.00
+******************************
+THANK YOU PLEASE COME AGAIN
+
+
